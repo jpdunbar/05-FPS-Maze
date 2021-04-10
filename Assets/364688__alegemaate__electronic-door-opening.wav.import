@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/364688__alegemaate__electronic-door-opening.wav-17dd7c00287333e6ae474d67647d30f6.sample"
+
+[deps]
+
+source_file="res://Assets/364688__alegemaate__electronic-door-opening.wav"
+dest_files=[ "res://.import/364688__alegemaate__electronic-door-opening.wav-17dd7c00287333e6ae474d67647d30f6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
